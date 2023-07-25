@@ -1,9 +1,8 @@
 # Mikromechanik
 
 ## Artikel & Infos 
-- Mikromechanik, MEMS, Mikrosystemtechnik, MST, 
+- Mikromechanik, MEMS, Mikrosystemtechnik, MST, microsystems,
 - Halbleiter, Semiconductor, 
-- microsystems, 
 - Silicon, Silicium, 
 - Quartz, Quarz, 
 - thinfilm technology   
