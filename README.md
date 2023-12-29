@@ -1,11 +1,12 @@
 # Mikromechanik
 
 ## Artikel & Infos 
-- MEMS, Mikromechanik, Mikrotechnik, Mikrosystemtechnik, MST, microsystems,
+- MEMS = micro-electro-mechanical systems,
+- Mikromechanik, Mikrotechnik, Mikrosystemtechnik (MST), microsystems,
 - Halbleiter, Semiconductor, 
 - Silicon, Silicium, 
 - Quartz, Quarz, 
-- thinfilm technology   
+- piezoelectric thin-film technology   
 
 ## Further information
 - https://tfconsult.com/tag/mems/
