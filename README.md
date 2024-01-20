@@ -1,7 +1,7 @@
 # Mikromechanik
 
-## Artikel & Infos 
-- MEMS = micro-electro-mechanical systems,
+## Übersichtsartikel & Infos 
+- Fundamentals of MEMS = micro-electro-mechanical systems,
 - Mikromechanik, Mikrotechnik, Mikrosystemtechnik (MST), microsystems,
 - Halbleiter, Semiconductor, 
 - Silicon, Silicium, 
