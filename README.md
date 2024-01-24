@@ -3,10 +3,10 @@
 ## Übersichtsartikel & Infos 
 - Fundamentals of MEMS = micro-electro-mechanical systems,
 - Mikromechanik, Mikrotechnik, Mikrosystemtechnik (MST), microsystems,
-- Halbleiter, Semiconductor, 
-- Silicon, Silicium, 
-- Quartz, Quarz, 
-- piezoelectric thin-film technology   
+- Halbleiter / Semiconductor, 
+- Silicon / Silicium, 
+- Quartz / Quarz, 
+- piezoelectric thin-film technology (ZnO, AlN) 
 
 ## Further information
 - https://tfconsult.com/tag/mems/
